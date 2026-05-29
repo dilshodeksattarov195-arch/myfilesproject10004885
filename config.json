@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorvetch",
+        "uuid": 47120710,
+        "checksum": "ol8ry7"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
